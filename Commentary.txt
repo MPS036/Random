@@ -1,0 +1,8 @@
+The last but no less interesting programs that I managed to make.
+1) Buffer. A regular program that records all the text that the user copied
+2) Downloader. A program that downloads a file if you have a link to it
+3) Get IP. A program that outputs a Local IP, a Public IP, and a Hostname
+4) Info about file. A program that outputs the file size, date of last modification and usage
+5) List of files in dirrectory. A program that provides a list of all files located in the specified directory
+6) Port-scanner. A program that scans the port of the specified site
+7) Window locker. A small malware that blocks the user's screen :)
